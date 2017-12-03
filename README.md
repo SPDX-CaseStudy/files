@@ -6,10 +6,10 @@ The manuscript is available in the proceedings of and was presented at ACM GROUP
 Gandhi, R., Germonprez, M., & Link, G. J.P. (2018). Open data standards for open source software risk management routines: An examination of SPDX. In ACM GROUP '18 Proceedings. https://doi.org/10.1145/3148330.3148333
 
 ## In this repository
-  * (Presentation slides for ACM GROUP '18)[GroupPresentation.pptx] ((PDF)[GroupPresentation.pdf])
-  * (Assurance Case)[AssuranceCase.png]
-  * (Interview Protocol)[InterviewProtocol.docx]
-  * (Focus Group presentation slides)[FocusGroup.pptx]
+  * [Presentation slides for ACM GROUP '18](GroupPresentation.pptx) ([PDF](GroupPresentation.pdf))
+  * [Assurance Case](AssuranceCase.png)
+  * [Interview Protocol](InterviewProtocol.docx)
+  * [Focus Group presentation slides](FocusGroup.pptx)
 
 
 ## License
