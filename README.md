@@ -7,11 +7,11 @@ Gandhi, R., Germonprez, M., & Link, G. J.P. (2018). Open data standards for open
 
 ## In this repository
   * [Presentation slides for ACM GROUP '18](GroupPresentation.pptx) ([PDF](GroupPresentation.pdf))
-  * [Assurance Case](AssuranceCase.png)
-  * [Interview Protocol](InterviewProtocol.docx)
-  * [Focus Group presentation slides](FocusGroup.pptx)
+  * [Assurance Case](AssuranceCase.png) ([PDF](AssuranceCase.pdf))
+  * [Interview Protocol](InterviewProtocol.docx) ([PDF](InterviewProtocol.pdf))
+  * [Focus Group presentation slides](FocusGroup.pptx) ([PDF](FocusGroup.pdf))
 
 
 ## License
-&copy; 2016-2018 Matt Germonprez, Robin Gandhi, and Georg J.P. Link.
+&copy; 2016-2018 Robin Gandhi, Matt Germonprez, and Georg J.P. Link.
 The files in this repository are provided under an <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0) License</a>.
